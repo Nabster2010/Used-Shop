@@ -1,5 +1,5 @@
 # UsedShop
-mern stack for used stuff -with chating
+mern stack for used stuff -user chating with socket io authentication with jsonwtoken
 
 
 ## setup
