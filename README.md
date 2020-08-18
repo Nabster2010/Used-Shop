@@ -2,9 +2,9 @@
 mern stack for used stuff -with chating
 
 
-##setup
+##setup##
 `npm install` && `cd frontend/ `  && `npm install` 
-##start
+##start##
 `cd..` && `npm run dev`
 
 **local mongo database**
